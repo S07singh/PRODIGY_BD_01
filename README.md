@@ -81,6 +81,12 @@ The server will start on 🔢 port 3000 by default.
         "name": "John Doe",
         "email": "john.doe@example.com",
         "age": 30
+    },
+    {
+        "id": "uuid",
+        "name": "John Don",
+        "email": "john.Don@example.com",
+        "age": 35
     }
 ]
 ```
@@ -157,11 +163,20 @@ The API handles various 🚨 error cases:
 
 ```
 user-management-api/
-├── 📁 node_modules/
-├── 📄 .env
-├── 📄 .gitignore
-├── 📄 package.json
-└── 📄 server.js
+├── config/
+│   └── db.js
+├── models/
+│   └── User.js
+├── controllers/
+│   └── userController.js
+├── routes/
+│   └── userRoutes.js
+├── middleware/
+│   └── errorHandler.js
+├── .env
+├── .gitignore
+├── package.json
+└── server.js
 ```
 
 ## 📦 Dependencies
