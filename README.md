@@ -2,6 +2,8 @@
 
 A simple 🌐 RESTful API for 🏗️ user management built with ⚡ Express.js. This API provides 🔄 CRUD operations for managing 🗃️ user data with 💾 in-memory storage.
 
+![Project Screenshot](Screenshot.png)
+
 ## ⭐ Features
 
 - ✍️ Create, 📖 Read, ✏️ Update, and ❌ Delete users
