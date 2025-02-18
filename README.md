@@ -2,7 +2,7 @@
 
 A simple 🌐 RESTful API for 🏗️ user management built with ⚡ Express.js. This API provides 🔄 CRUD operations for managing 🗃️ user data with 💾 in-memory storage.
 
-![Project Screenshot](Screenshot.png)
+![Project Screenshot](Screenshot 2025-02-16 100616.png)
 
 ## ⭐ Features
 
